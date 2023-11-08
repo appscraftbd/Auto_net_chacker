@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-            mHandler.postDelayed(m_Runnable,10000);
+            mHandler.postDelayed(m_Runnable,50000);
         }
 
     };
